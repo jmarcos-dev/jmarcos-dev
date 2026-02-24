@@ -37,6 +37,21 @@ I believe that **true knowledge comes from curiosity, persistence, and controlle
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔐 Linux Privilege Escalation Toolkit
+Custom scripts for enumeration and privilege escalation automation in C and Python.
+- Focus: Post-exploitation
+- Tech: Python, Bash, Linux Internals
+
+### 🧠 Binary Exploitation Playground
+Collection of vulnerable programs and exploit development walkthroughs.
+- Focus: Buffer Overflow, Memory Corruption
+- Tech: C, GDB, pwntools
+
+### ⚙️ Backend Performance API
+Minimal REST API optimized for performance benchmarking.
+- Tech: C++, PostgreSQL
 <!-- STACK -->
 ## 🛠️ Tech Stack
 
