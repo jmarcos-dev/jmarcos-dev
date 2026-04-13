@@ -1,105 +1,85 @@
 <!-- TITLE -->
-<h1 align="center">🧠 João Marcos</h1>
+
+<h1 align="center">🚀 João Marcos</h1>
 <p align="center">
-  <strong>Offensive Security • Backend Engineer • Automation Enthusiast</strong>
+  <strong>Backend Developer (Python) • Security Mindset</strong>
 </p>
 
 ---
 
-<!-- INTRO -->
-## 🕶️ About Me
+## 👨‍💻 About Me
 
-Hi, I’m **João Marcos**, from Brazil 🇧🇷  
-A **cybersecurity-focused developer** passionate about **breaking systems to understand how they work — and how to secure them**.
+Hi, I’m João Marcos 🇧🇷
 
-My daily routine involves:
-- 🧩 Solving **Hack The Box** machines  
-- 🤖 Automating boring tasks with **Python**  
-- ⚙️ Writing **low-level & backend code** in **C / C++**
-- 🐧 Living inside **Linux terminals**
+I’m a **Computer Science student** focused on **backend development with Python**, with hands-on experience in automation, data processing, and system problem-solving.
 
-I believe that **true knowledge comes from curiosity, persistence, and controlled chaos**.
-
-<p align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif" width="300" alt="hacker gif"/>
-</p>
+I also have a strong interest in **cybersecurity**, which helps me build systems with a **security-first mindset**.
 
 ---
 
-<!-- FOCUS -->
 ## 🎯 Current Focus
 
-- 🛡️ Offensive Security & Ethical Hacking  
-- 🧠 Binary exploitation & system internals  
-- 🐍 Python automation for security & tooling  
-- ⚙️ Backend & performance-oriented development  
-- 🔍 Reverse engineering & Linux internals  
+* ⚙️ Backend development with Python (APIs & data processing)
+* 🐍 Automation scripts and ETL routines
+* 🗄️ Databases (PostgreSQL, MySQL)
+* 🔐 Applying security best practices in development
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 Linux Privilege Escalation Toolkit
-Custom scripts for enumeration and privilege escalation automation in C and Python.
-- Focus: Post-exploitation
-- Tech: Python, Bash, Linux Internals
+### ⚙️ Data Migration & ETL Scripts
 
-### 🧠 Binary Exploitation Playground
-Collection of vulnerable programs and exploit development walkthroughs.
-- Focus: Buffer Overflow, Memory Corruption
-- Tech: C, GDB, pwntools
+* Automation scripts for processing and migrating data
+* Focus on reliability and performance
+* Tech: Python, SQL
 
-### ⚙️ Backend Performance API
-Minimal REST API optimized for performance benchmarking.
-- Tech: C++, PostgreSQL
-<!-- STACK -->
+### 🌐 Backend API (in progress)
+
+* REST API with authentication and database integration
+* Tech: Python, FastAPI, PostgreSQL
+
+### 🤖 Automation Toolkit
+
+* Scripts to automate repetitive tasks and workflows
+* Focus: productivity and efficiency
+
+---
+
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/>
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
-</p>
+* **Languages:** Python, C++
+* **Backend:** FastAPI (learning)
+* **Databases:** PostgreSQL, MySQL, SQL Server
+* **Tools:** Git, GitHub
+* **Systems:** Linux, Windows
 
 ---
 
-<!-- LEARNING -->
+## 🔐 Security (Differential)
+
+* OWASP Top 10
+* Basic vulnerability analysis
+* Networking fundamentals (TCP/IP, DNS, HTTP)
+
+---
+
 ## 📚 Currently Learning
 
-- 🧨 Advanced exploitation techniques (HTB & labs)
-- 🧠 Memory management & binary analysis
-- 🔐 Web vulnerabilities & backend security
-- ⚙️ Performance-oriented C/C++ patterns
+* Backend architecture & APIs
+* Database optimization
+* Secure coding practices
+* System design fundamentals
 
 ---
 
-<!-- FUN FACTS -->
-## 🧩 Random Facts (Patch Notes)
-
-- 🧠 I like to understand **how things break before learning how to fix them**
-- 🐧 Linux feels more like home than any GUI
-- 🧪 Automation saves time
-- ☕ Caffeine is a dependency, not a choice
-
----
-
-<!-- CONTACT -->
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.instagram.com/thejohn_cs/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-a26439285/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-marcos-a26439285/)
+[GitHub](https://github.com/JohnMarcosP)
 
 ---
 
-<!-- STATS -->
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -108,7 +88,6 @@ Minimal REST API optimized for performance benchmarking.
 
 ---
 
-<!-- FOOTER -->
 <p align="center">
-  <i>“If you know how a system fails, you know how to control it.”</i>
+  <i>Building systems that work — and don’t break easily.</i>
 </p>
