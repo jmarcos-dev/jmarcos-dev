@@ -2,7 +2,7 @@
 
 <h1 align="center">🚀 João Marcos</h1>
 <p align="center">
-  <strong>Backend Developer (Python) • Security Mindset</strong>
+  <strong>Backend Developer (Python)</strong>
 </p>
 
 ---
