@@ -12,7 +12,7 @@
   <a href="https://github.com/JohnMarcosP">
     <img src="https://img.shields.io/badge/GitHub-JohnMarcosP-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-s21/">
     <img src="https://img.shields.io/badge/LinkedIn-João%20Marcos-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
