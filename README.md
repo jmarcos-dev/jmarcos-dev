@@ -12,9 +12,9 @@ I currently work at Allrede Telecom and as an intern at the Federal Justice, whe
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnMarcosP&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmarcos-dev&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMarcosP&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcos-dev&layout=compact&theme=github_dark)
 
 ---
 
