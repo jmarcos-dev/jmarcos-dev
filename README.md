@@ -14,6 +14,9 @@ I currently work at Allrede Telecom and as an intern at the Federal Justice, whe
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jmarcos-dev&show_icons=true&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=jmarcos-dev&theme=radical)
+
+
 ---
 
 ## Projects
