@@ -12,11 +12,11 @@ I currently work at Allrede Telecom and as an intern at the Federal Justice, whe
 
 ## GitHub Stats
 
-<div align="center">
+<div align="left">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmarcos-dev&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=jmarcos-dev&show_icons=true&theme=radical" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcos-dev&layout=compact&theme=radical&langs_count=8" />
+---
 
   <br/>
 
