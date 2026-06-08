@@ -20,7 +20,7 @@ I currently work at Allrede Telecom and as an intern at the Federal Justice, whe
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=jmarcos-dev&theme=radical" />
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmarcos-dev&theme=radical)
 
 </div>
 
