@@ -71,9 +71,10 @@ Early-stage contributor to the **[Hiero / Hedera](https://github.com/hiero-ledge
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joaomarcos.c.dev@gmail.com)
 
 ---
-
+<!--
 ## GitHub Stats
 
 <div align="center">
   <img src="https://ghstats.dev/api/card?username=jmarcos-dev&theme=radical" alt="GitHub Stats Card" />
 </div>
+-->
